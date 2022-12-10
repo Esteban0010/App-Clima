@@ -1,0 +1,46 @@
+.App{
+  background-color: rgb(56, 56, 130);
+  min-height: 100vh;
+  min-width: 100vw;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.titulo{
+margin: 30px;
+text-align: start;
+
+}
+
+.Conteiner{
+ display: block;
+ background-color: rgb(28, 24, 52);
+ padding: 20px;
+border-radius: 10px; 
+}
+
+.pais{
+  color: rgb(244, 251, 252);
+  margin: 10px;
+}
+
+.select{
+  background-color: rgb(175, 233, 215);
+  padding: 5px;
+  border-radius: 8px;
+  border: none;
+}
+
+.datos{
+  color: rgb(238, 238, 238);
+}
+
+.icon{
+ text-align: center;
+}
+
+img{
+  width: 40%;
+  height: 40%;
+}
